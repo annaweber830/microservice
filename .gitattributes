@@ -1,1 +1,4 @@
 MicroService.rar filter=lfs diff=lfs merge=lfs -text
+Reference.zip filter=lfs diff=lfs merge=lfs -text
+ubuntu_kubernetes.zip filter=lfs diff=lfs merge=lfs -text
+Windows_kubernetes.zip filter=lfs diff=lfs merge=lfs -text

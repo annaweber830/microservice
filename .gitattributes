@@ -7,3 +7,4 @@ ubuntu.z01 filter=lfs diff=lfs merge=lfs -text
 ubuntu.z02 filter=lfs diff=lfs merge=lfs -text
 ubuntu.zip filter=lfs diff=lfs merge=lfs -text
 dockerE.rar filter=lfs diff=lfs merge=lfs -text
+SpringGuide.zip filter=lfs diff=lfs merge=lfs -text
